@@ -10,5 +10,5 @@ Credenciais do IBM SkillsBuild:
 
 [Working in a Digital World: Professional Skills](https://www.credly.com/badges/7d10d359-1921-433d-880a-4520de0840cb/public_url)
 
-<img width="600" height="224" alt="image" src="https://github.com/user-attachments/assets/ad3a27c1-9344-4584-a82e-89da8d543ed8" />
+<img width="300" height="112" alt="image" src="https://github.com/user-attachments/assets/ad3a27c1-9344-4584-a82e-89da8d543ed8" />
 
