@@ -12,3 +12,4 @@ Credenciais do IBM SkillsBuild:
 
 <img width="300" height="112" alt="image" src="https://github.com/user-attachments/assets/ad3a27c1-9344-4584-a82e-89da8d543ed8" />
 
+<img width="352" height="275" alt="EtecDaZonaLeste" src="https://github.com/user-attachments/assets/8cb06252-308d-48db-950c-001e6f53ce15" />
